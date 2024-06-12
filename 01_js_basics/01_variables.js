@@ -7,7 +7,7 @@ let accountState;
 accountEmail = "sayantan@gmail.com"
 accountPassword = "000000"
 accountCity = "Mumbai"
-
+1
 // accountId = 2 // not allowed
 
 console.log(accountId);
